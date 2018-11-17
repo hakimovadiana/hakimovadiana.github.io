@@ -1,0 +1,26 @@
+p{
+  color:#5f42f4;
+  font-size:25px;
+}
+img {
+  height:30%;
+}
+.paper{
+  color: purple;
+}
+.pen{
+  color: green;
+}
+#start{color:red;}
+p:hover{
+  color:pink;
+}
+body{
+  background-color: pink;
+}
+
+@media (min-width:600px) and (max-width:800px){
+  body{
+    background-color:yellow;
+  }
+}
